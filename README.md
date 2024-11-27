@@ -73,29 +73,3 @@ All user actions (add, edit, delete) update localStorage for data persistence.
 Data is loaded from localStorage whenever the page is refreshed.
 Role Management
 Roles can be assigned to users, helping to control their access and permissions.
-Folder Structure
-The project has the following structure:
-
-bash
-Copy code
-src/
-├── components/      # React components for User and Role Management
-├── styles/          # Tailwind CSS configurations
-├── utils/           # Utility functions for localStorage handling
-├── App.js           # Main application file
-├── index.js         # Entry point
-Contribution Guidelines
-Contributions are welcome! If you have ideas for new features or improvements:
-
-Fork this repository.
-Create a new branch: git checkout -b feature-name.
-Commit your changes: git commit -m 'Add feature-name'.
-Push to the branch: git push origin feature-name.
-Submit a pull request.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Acknowledgements
-React Documentation: For clear and concise guidance on building React apps.
-Tailwind CSS: For an efficient styling workflow.
-Community contributions and feedback.
