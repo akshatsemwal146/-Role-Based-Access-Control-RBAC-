@@ -1,6 +1,6 @@
 #  Role-Based Access Control (RBAC) 
  Role-Based Access Control (RBAC)
-# User Management System (RBAC-VRV-Security)
+# User Management System (RBAC)
 
 A **User Management System** built with **React-JS** for managing users and roles in a dynamic table format. This app allows you to add, edit, and delete users and roles, with persistent data stored using `localStorage`.
 
